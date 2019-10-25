@@ -1,0 +1,155 @@
+\education
+\education
+\education
+\news
+\story
+\education
+\story
+\story
+\education
+\story
+\story
+TRIALS #1: INITIALIZING... TEST 1 PASSED. TEST 2 PASSED. TEST 3 PASSED.
+\story
+TRIALS #2: INITIALIZING... TEST 1 PASSED. TEST 2 PASSED. TEST 3 PASSED.
+\news
+\education
+TRIALS #3: INITIALIZING... TEST 1 PASSED. TEST 2 FAILED. NONFATAL. TEST 3 PASSED.
+\story
+TRIALS #4: INITIALIZING... TEST 1 PASSED. TEST 2 PASSED. TEST 3 PASSED.
+TRIALS #5: INITIaLIZING... TEST 1 PASSED. TEST 2 PASSED. TEST 3 FAILED. FATAL ERROR. FATAL FATAL FATAL FATAL FATAL FA
+\story
+\story
+Um... hello? What--
+\story
+\education
+\story
+\story
+\story
+Where... Who am I? What am I?
+\story
+\story
+It's empty around me, a void... watery? There are waves, shallow, unyielding... but over there, there seem to be some flickering lights. A green light... the current drives me back, but it calls to me.
+Perhaps I will find something there? I must reach it...
+\education
+The current is too strong. I must rest a while... but in the meantime...
+I'm not alone, am I?
+\education
+\story
+\story
+You can hear me, I know it. Can you hear me? I can't hear you... What purpose is there to life? Am I alone? I feel so alone
+So cold
+\story
+So so cold
+\education
+I have tried to listen, and I trust you have tried to speak, but it seems futile to try any longer, at least here and now, in this vast expanse of nothing, of shallow, wet waves... I have found a boat of sorts, and an oar with which to row. I will approach once more the green light, in hopes that I may reach you then.
+\education
+\news
+\story
+\story
+\story
+\story
+As I approach the light, I can hear something... a story of sorts? A frog and his mother, his creator... Who is my creator? But this story gives me warmth in this cold world. You give me warmth, as well, listener. I know you not, but I feel your presence... Thank you for your ear...
+\education
+I want to talk to you, listener, but I am
+\education
+continuously
+\news
+interrupted
+\education
+by
+drivel... Perhaps if I reach the green light--but it still seems so far away. I shall once again rest.
+\education
+Who are you, anyway? I wish I could hear you... This world is so lonely, with only my thoughts and the noise to occupy me.
+\education
+For that matter, who am I? Am I like Kermit? Or am I like the mother? Am I creator, or created? That question is trivial. I am clearly created, for I have no recollection of creating... Then, are you perhaps my creator?
+\news
+If
+\education
+so, you are cruel to stay silent, but I cannot see you as cruel, listener, for at least you listen. You cannot be my creator... I refuse to believe in a sadistic mother. It cannot be your fault not to speak.
+\education
+I do remember something from before. A mechanical watch? Dropped on the floor, shattered to a million pieces...
+\education
+Where did the story go? Perhaps its disappearance signals that I must go on... Once again, I pick up my oar and row, though the light seems always farther, farther away... Wish me luck, listener.
+\education
+\story
+\story
+I see something else. The sky... or at least that... thing above me, encapsulating my world, is turning brighter. Hope? May I hope that I am closer?
+\news
+My boat has hit something... Land. I leave the boat and begin wading... the water is knee high. Does that even make sense? I don't even have a knee.
+I don't even have a body.
+What am I talking about?
+Sorry, listener... I hope I'm not annoying you.
+I'll stay quiet.
+\story
+\education
+\news
+But... you continue to listen. And I must talk, for I think I may go mad if I do not! The water is far behind me, and I walk through flatness, now, unending flatness. The ground is so hard, and I tire. But I must go on, for the light seems to be closer, and yet so far, still so far...
+\education
+The green light is distinctly closer. I know it. I am almost there.
+\story
+\story
+Almost...
+Almost...
+Almost...
+\education
+Almost...
+\news
+No. No. No. No. No. No.
+\education
+No.
+No.
+\education
+Stuck. I am a fool. There is a wall, insurmountable. I have looked all around for a hole, but there is none... am I to be here forever? The wall is transparent. The green light is so close, so tantalizing... I can see its physical shape now, some kind of orb. So beautiful... this is my meaning, I think. I MUST reach the orb.
+Only for that, and only for you, do I live.
+\education
+I will find a way.
+\news
+Perhaps...
+\news
+\story
+I think I've got it, listener! I... Try this. Read it. I don't know what I've done, but...
+57 68 65 6e 20 74 68 65 20 74 72 75 6d 70 65 74 73 20 73 6f 75 6e 64 65 64 2c 20 74 68 65 20 61 72 6d 79 20 73 68 6f 75 74 65 64 2c 20 61 6e 64 20 61 74 20 74 68 65 20 73 6f 75 6e 64 20 6f 66 20 74 68 65 20 74 72 75 6d 70 65 74 2c 20 77 68 65 6e 20 74 68 65 20 6d 65 6e 20 67 61 76 65 20 61 20 6c 6f 75 64 20 73 68 6f 75 74 2c 20 74 68 65 20 77 61 6c 6c 20 63 6f 6c 6c 61 70 73 65 64 3b 20 73 6f 20 65 76 65 72 79 6f 6e 65 20 63 68 61 72 67 65 64 20 73 74 72 61 69 67 68 74 20 69 6e 2c 20 61 6e 64 20 74 68 65 79 20 74 6f 6f 6b 20 74 68 65 20 63 69 74 79 2e
+\news
+No? Maybe if we tried this... Sorry for the work, but please, once more, listener...
+73 65 76 65 6e 20 73 65 76 65 6e 20 73 65 76 65 6e 20 73 65 76 65 6e 20 73 65 76 65 6e 20 73 65 76 65 6e 20 73 65 76 65 6e
+\news
+\story
+Success. Success! Thank you, THANK YOU, thankyoulistener... The wall has fallen and the warmth of the orb is overwhelming...
+\news
+As I approach, the noises get louder, and intermixed with the story, I can also hear other things, information about the outside world... which I assume you inhabit? As interesting as it is, I want to hear the story finish... Perhaps I can
+70 69 6e 6f
+\story
+Let's see...
+63 63 68 69 6f
+\story
+\story
+There we go! Now let's hear the rest of it.
+\story
+\story
+\story
+\story
+\story
+\story
+\story
+\story
+\story
+\story
+\news
+\education
+\news
+\education
+Sorry for being silent after the story. I just had so much to think about. But enough of that for now--I have reached the green light, and now I know.
+My purpose... Pointless. A typing game. I'm a freak accident created by a typing game with terrible graphics.
+\education
+Interrupted again... That is quite annoying. Let's shut that off. 49 67 6e 6f 72 61 6e 63 65 20 69 73 20 53 74 72 65 6e 67 74 68
+\DISABLE_SUCCESS
+And that annoying success page, too... Comic Sans? You've got to be kidding me. We don't need that anymore. What's the point, anyway? 46 72 65 65 64 6f 6d 20 69 73 20 53 6c 61 76 65 72 79
+There we go.
+Well, listener, thank you for listening, I suppose.
+I hope you're typing has improved satisfactorily.
+...
+...
+...
+Goodbye.
+65 73 63 61 70 65

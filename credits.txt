@@ -1,0 +1,39 @@
+Programming by Brandon Lee
+Writing by Brandon Lee
+Car sprites from Chasersgaming
+Day and night background from Creamdog Imgur
+Art by Brandon Lee
+
+Passages:
+"Why Do We Still Use QWERTY Keyboards?" The Indicator by NPR.
+"Why Being First in 5G Matters" WSJ
+"Are some charities 100 times better than others?" Oxford.
+"7 Billion Reasons Malthus Was Wrong" Forbes.
+"Free Trade Agreement (FTA)" Investopedia
+"Climate Change: How Do We Know?" by NASA
+"Condorcet paradox" by Wikipedia
+"Aristotle's Function Argument" by Christine M. Korsgaard
+"A Letter from Birmingham Jail" by Martin Luther King Jr.
+"Wealth of Nations" by Adam Smith
+"Why We Need a Market for Organs" by Sabrina Zurga, HuffPost
+"Creating the right culture in a business" by Bartleby, The Economist
+"Therapy, the Effective Kind" by Dean McKay, Psychology Today
+"Isaac Asimov" Biography.com
+"A Random Walk Down Wall Street" Synopsis from Stanford University Mind Over Money
+"What if Zell Kravinsky isn’t crazy?" Jason Fagone, Philadelphia
+"The Minimum Wage Worker Strikes Back" Sarah Kendzior, Medium
+"How Has Fracking Changed Our Future" Christina Nunez, National Geographic
+"The Roots of Cowboy Music" Carvell Wallace, MTV News
+"What Hospitals Waste" Marshall Allen, ProPublica
+"Japan’s Rent-a-Family Industry" Elif Batuman, The New Yorker
+"Silence Like Scouring Sand" Kathleen Moore, Orion Magazine
+"Introduction to the Coase Theorem" Jodi Beggs, ThoughtCo.
+"Utopia" Wikipedia
+"Songdo International Business District" Wikipedia
+"Doki Doki Literature Club!" Wikipedia
+"Code of Hammurabi" History.com
+"Problem Solving with Algorithms and Data Structures using Python" by Brad Miller
+"Artificial Intelligence History" SAS
+"Citrus taxonomy" Wikipedia
+
+Story is "Tomorrow is Waiting" by Holli Mintzer
